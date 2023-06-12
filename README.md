@@ -29,3 +29,4 @@
 
 # Contact Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhminko/)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhminkoRoman)](https://github.com/ZhminkoRoman/github-readme-stats)
