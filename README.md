@@ -13,7 +13,7 @@
         <tr>
            <td>
               <img
-                src="https://github-readme-stats.vercel.app/api?username=ZhminkoRoman&show_icons=true&locale=en&theme=tokyonight&count_private=true&include_all_commits=true"
+                src="https://github-readme-stats.vercel.app/api?username=ZhminkoRoman&show_icons=true&locale=en&theme=tokyonight&count_private=true"
                 alt="GitHub Stats"
               />
             </td>
